@@ -1,0 +1,6 @@
+customer_id,age,annual_income,spending_score,customer_segment
+1,22,15000,39,0
+2,25,32000,81,0
+3,47,58000,6,1
+4,52,72000,77,1
+5,46,61000,40,1

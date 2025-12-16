@@ -1,0 +1,6 @@
+order_id,customer,product,quantity,price,order_status
+101,Ravi,Laptop,1,60000,Completed
+102,Anita,Mouse,2,500,Pending
+103,Kiran,Phone,1,30000,Completed
+104,Suresh,Tablet,1,20000,Cancelled
+105,Meena,Monitor,2,8000,Completed

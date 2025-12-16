@@ -1,0 +1,4 @@
+order_id,product,quantity,price,status,total_price
+1,Apple,2,100,completed,200
+3,Orange,3,50,completed,150
+4,Mango,1,150,completed,150
